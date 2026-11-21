@@ -1,0 +1,40 @@
+{
+  "_note": "Ground truth for Entity-Relation Resolution Accuracy. 'aliases' lists surface forms that must resolve to the canonical entity. 'links' lists cross-document relations that must exist in the graph (subject, relation family, object).",
+  "entities": [
+    {"canonical": "CBDT", "aliases": ["CBDT", "Central Board of Direct Taxes", "Income Tax Department", "Tax Authority"]},
+    {"canonical": "CBIC", "aliases": ["CBIC", "Central Board of Indirect Taxes and Customs"]},
+    {"canonical": "RBI", "aliases": ["RBI", "Reserve Bank of India"]},
+    {"canonical": "FIU-IND", "aliases": ["FIU-IND", "Financial Intelligence Unit-India", "Financial Intelligence Unit"]},
+    {"canonical": "SEBI", "aliases": ["SEBI"]},
+    {"canonical": "Section 94Z", "aliases": ["Section 94Z", "Sec 94Z", "S. 94Z"]},
+    {"canonical": "Section 271Z", "aliases": ["Section 271Z", "Sec 271Z"]},
+    {"canonical": "ISD", "aliases": ["ISD", "Input Service Distributor", "Rule 39A"]},
+    {"canonical": "IRN", "aliases": ["IRN", "Invoice Reference Number"]},
+    {"canonical": "Beneficial Owner", "aliases": ["Beneficial Owner", "BO", "beneficial owner"]},
+    {"canonical": "Master Direction SYN-RBI/KYC/2025", "aliases": ["Master Direction SYN-RBI/KYC/2025", "KYC Master Direction", "RBI KYC Master Direction"]},
+    {"canonical": "PMLA Rules", "aliases": ["PMLA Rules", "Prevention of Money Laundering Rules", "PMLA"]},
+    {"canonical": "Registered Valuer", "aliases": ["Registered Valuer", "RV"]},
+    {"canonical": "Material Adverse Change", "aliases": ["Material Adverse Change", "MAC"]},
+    {"canonical": "Axiom Holdings Pte Ltd", "aliases": ["Axiom Holdings Pte Ltd", "Axiom Holdings", "Axiom", "Buyer"]},
+    {"canonical": "Meridian Components Ltd", "aliases": ["Meridian Components Ltd", "Meridian Components", "Meridian", "the Company", "Target"]},
+    {"canonical": "Meridian Finance Ltd", "aliases": ["Meridian Finance Ltd", "Meridian Finance", "NBFC subsidiary"]},
+    {"canonical": "Meridian Foundation", "aliases": ["Meridian Foundation", "the Foundation"]},
+    {"canonical": "Meridian Global GmbH", "aliases": ["Meridian Global GmbH", "parent"]},
+    {"canonical": "Chief Compliance Officer", "aliases": ["Chief Compliance Officer", "CCO"]}
+  ],
+  "links": [
+    {"subject": "Circular SYN-CBDT-C/07/2025", "relation": "clarifies", "object": "Section 94Z", "docs": ["TAX-02", "TAX-01"]},
+    {"subject": "Notification SYN-CBDT/14/2025", "relation": "amends", "object": "Section 94Z", "docs": ["TAX-01"]},
+    {"subject": "Circular SYN-CBIC/203/2025", "relation": "requires", "object": "ISD", "docs": ["TAX-03"]},
+    {"subject": "57th GST Council", "relation": "requires", "object": "IRN", "docs": ["TAX-04"]},
+    {"subject": "PMLA Rules", "relation": "refers to", "object": "Master Direction SYN-RBI/KYC/2025", "docs": ["GRC-02", "GRC-01"]},
+    {"subject": "IC-KYC-07", "relation": "maps to", "object": "Master Direction SYN-RBI/KYC/2025", "docs": ["GRC-04", "GRC-01"]},
+    {"subject": "Meridian Finance Ltd", "relation": "subsidiary of", "object": "Meridian Components Ltd", "docs": ["GRC-04", "DEAL-01", "DEAL-05"]},
+    {"subject": "Share Purchase Agreement", "relation": "covers", "object": "Section 94Z", "docs": ["DEAL-01"]},
+    {"subject": "Axiom Holdings Pte Ltd", "relation": "acquires", "object": "Meridian Components Ltd", "docs": ["DEAL-01", "DEAL-05"]},
+    {"subject": "Meridian Foundation", "relation": "holds shares in", "object": "Meridian Components Ltd", "docs": ["DEAL-01", "DEAL-05"]},
+    {"subject": "FCRA", "relation": "requires", "object": "Registered Valuer", "docs": ["DEAL-04", "DEAL-02"]},
+    {"subject": "FEMA NDI Rules", "relation": "accepts", "object": "Registered Valuer", "docs": ["DEAL-03", "DEAL-02"]},
+    {"subject": "SOP-IA-KYC-03", "relation": "tests", "object": "IC-KYC-07", "docs": ["GRC-05", "GRC-04"]}
+  ]
+}

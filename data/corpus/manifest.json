@@ -1,0 +1,383 @@
+{
+  "DEAL-01.docx": {
+    "doc_id": "DEAL-01",
+    "title": "Share Purchase Agreement - Axiom Holdings Pte Ltd / Meridian Components Ltd",
+    "practice_area": "deals",
+    "doc_type": "spa",
+    "format": "docx",
+    "effective_date": "2025-12-15"
+  },
+  "DEAL-02.md": {
+    "doc_id": "DEAL-02",
+    "title": "Companies Act 2013 - Registered Valuer and Valuation Report Standards (synthetic extract)",
+    "practice_area": "deals",
+    "doc_type": "statute_extract",
+    "format": "md",
+    "effective_date": "2025-01-01"
+  },
+  "DEAL-03.md": {
+    "doc_id": "DEAL-03",
+    "title": "FEMA Non-Debt Instruments Rules - Pricing, Deferred Consideration and Reporting (synthetic extract)",
+    "practice_area": "deals",
+    "doc_type": "rules",
+    "format": "md",
+    "effective_date": "2025-01-01"
+  },
+  "DEAL-04.md": {
+    "doc_id": "DEAL-04",
+    "title": "FCRA - Foreign Contribution Conditions for Registered Associations (synthetic extract)",
+    "practice_area": "deals",
+    "doc_type": "rules",
+    "format": "md",
+    "effective_date": "2025-01-01"
+  },
+  "DEAL-05.pdf": {
+    "doc_id": "DEAL-05",
+    "title": "Due Diligence Summary Memo - Project Meridian",
+    "practice_area": "deals",
+    "doc_type": "dd_memo",
+    "format": "pdf",
+    "effective_date": "2025-11-30"
+  },
+  "DIST-01.md": {
+    "doc_id": "DIST-01",
+    "title": "CBDT Notification: Section 94Y withholding on royalty payments to non-residents (rate 12%, threshold Rs 25 lak",
+    "practice_area": "tax",
+    "doc_type": "notification",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-02.md": {
+    "doc_id": "DIST-02",
+    "title": "CBDT Circular: Section 94X advance ruling application procedure and timelines",
+    "practice_area": "tax",
+    "doc_type": "circular",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-03.md": {
+    "doc_id": "DIST-03",
+    "title": "CBDT Circular: transfer pricing safe-harbour margins for IT-enabled services",
+    "practice_area": "tax",
+    "doc_type": "circular",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-04.md": {
+    "doc_id": "DIST-04",
+    "title": "CBDT Notification: equalisation levy on digital advertising services",
+    "practice_area": "tax",
+    "doc_type": "notification",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-05.md": {
+    "doc_id": "DIST-05",
+    "title": "CBIC Circular: GST composition scheme eligibility for small manufacturers",
+    "practice_area": "tax",
+    "doc_type": "circular",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-06.md": {
+    "doc_id": "DIST-06",
+    "title": "CBIC Circular: GST refund of unutilised credit under inverted duty structure",
+    "practice_area": "tax",
+    "doc_type": "circular",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-07.md": {
+    "doc_id": "DIST-07",
+    "title": "55th GST Council ruling: GST on renting of residential property to registered persons",
+    "practice_area": "tax",
+    "doc_type": "ruling",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-08.md": {
+    "doc_id": "DIST-08",
+    "title": "CBIC Circular: customs valuation of related-party imports",
+    "practice_area": "tax",
+    "doc_type": "circular",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-09.md": {
+    "doc_id": "DIST-09",
+    "title": "CBDT Notification: presumptive taxation scheme for small professionals",
+    "practice_area": "tax",
+    "doc_type": "notification",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-10.md": {
+    "doc_id": "DIST-10",
+    "title": "56th GST Council ruling: GST rate on electric-vehicle charging services",
+    "practice_area": "tax",
+    "doc_type": "ruling",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-11.md": {
+    "doc_id": "DIST-11",
+    "title": "RBI Master Direction on digital lending: key fact statement and cooling-off period",
+    "practice_area": "grc",
+    "doc_type": "master_direction",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-12.md": {
+    "doc_id": "DIST-12",
+    "title": "RBI Master Direction on outsourcing of IT services by regulated entities",
+    "practice_area": "grc",
+    "doc_type": "master_direction",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-13.md": {
+    "doc_id": "DIST-13",
+    "title": "SEBI circular: LODR related-party transaction approval thresholds for listed entities",
+    "practice_area": "grc",
+    "doc_type": "circular",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-14.md": {
+    "doc_id": "DIST-14",
+    "title": "SEBI circular: cyber resilience framework for stock brokers",
+    "practice_area": "grc",
+    "doc_type": "circular",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-15.md": {
+    "doc_id": "DIST-15",
+    "title": "ISO 31000 risk appetite statement for Orion Insurance Ltd",
+    "practice_area": "grc",
+    "doc_type": "policy",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-16.md": {
+    "doc_id": "DIST-16",
+    "title": "Internal audit SOP-IA-P2P-01: procure-to-pay controls testing at Orion Capital Ltd",
+    "practice_area": "grc",
+    "doc_type": "sop",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-17.md": {
+    "doc_id": "DIST-17",
+    "title": "RBI circular: credit information reporting by lenders to credit bureaus",
+    "practice_area": "grc",
+    "doc_type": "circular",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-18.md": {
+    "doc_id": "DIST-18",
+    "title": "Insurance regulator guidelines on corporate governance and board committees for insurers",
+    "practice_area": "grc",
+    "doc_type": "guidelines",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-19.md": {
+    "doc_id": "DIST-19",
+    "title": "Orion Capital Ltd: internal financial controls register mapped to Companies Act requirements",
+    "practice_area": "grc",
+    "doc_type": "control_register",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-20.md": {
+    "doc_id": "DIST-20",
+    "title": "SEBI circular: registration framework for ESG rating providers",
+    "practice_area": "grc",
+    "doc_type": "circular",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-21.md": {
+    "doc_id": "DIST-21",
+    "title": "Share Purchase Agreement between Kestrel Capital and Orion Textiles Ltd (indemnity cap 15%, escrow 12% for 24",
+    "practice_area": "deals",
+    "doc_type": "spa",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-22.md": {
+    "doc_id": "DIST-22",
+    "title": "Companies Act 2013 Section 188: related-party transactions approvals",
+    "practice_area": "deals",
+    "doc_type": "statute_extract",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-23.md": {
+    "doc_id": "DIST-23",
+    "title": "Companies Act 2013 Section 230: schemes of arrangement and merger approvals",
+    "practice_area": "deals",
+    "doc_type": "statute_extract",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-25.md": {
+    "doc_id": "DIST-25",
+    "title": "Due diligence summary Project Orion: GST and labour-law findings for Orion Textiles Ltd",
+    "practice_area": "deals",
+    "doc_type": "dd_memo",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-26.md": {
+    "doc_id": "DIST-26",
+    "title": "Shareholders agreement for Helix Pharma Ltd: drag-along, tag-along and board reserved matters",
+    "practice_area": "deals",
+    "doc_type": "agreement",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-27.md": {
+    "doc_id": "DIST-27",
+    "title": "SEBI takeover code: open offer triggers and pricing for listed targets",
+    "practice_area": "deals",
+    "doc_type": "rules",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-28.md": {
+    "doc_id": "DIST-28",
+    "title": "Competition regulator: combination notification thresholds and review timelines",
+    "practice_area": "deals",
+    "doc_type": "rules",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-29.md": {
+    "doc_id": "DIST-29",
+    "title": "Term sheet for minority investment in Zephyr Logistics: anti-dilution and liquidation preference",
+    "practice_area": "deals",
+    "doc_type": "term_sheet",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "DIST-30.md": {
+    "doc_id": "DIST-30",
+    "title": "State stamp duty circular on share transfer instruments and agreements to sell",
+    "practice_area": "deals",
+    "doc_type": "circular",
+    "format": "md",
+    "effective_date": "2025-01-01",
+    "role": "distractor"
+  },
+  "GRC-01.md": {
+    "doc_id": "GRC-01",
+    "title": "RBI Master Direction SYN-RBI/KYC/2025 - Know Your Customer",
+    "practice_area": "grc",
+    "doc_type": "master_direction",
+    "format": "md",
+    "effective_date": "2025-07-01"
+  },
+  "GRC-02.md": {
+    "doc_id": "GRC-02",
+    "title": "PMLA Rules Extract - Reporting Entity Obligations",
+    "practice_area": "grc",
+    "doc_type": "rules",
+    "format": "md",
+    "effective_date": "2025-01-01"
+  },
+  "GRC-03.md": {
+    "doc_id": "GRC-03",
+    "title": "SEBI Circular SYN-SEBI/BRSR/2025 - BRSR Core and Value Chain Assurance",
+    "practice_area": "grc",
+    "doc_type": "circular",
+    "format": "md",
+    "effective_date": "2025-04-01"
+  },
+  "GRC-04.docx": {
+    "doc_id": "GRC-04",
+    "title": "Meridian Finance Ltd - ISO 31000 Risk and Control Register",
+    "practice_area": "grc",
+    "doc_type": "control_register",
+    "format": "docx",
+    "effective_date": "2025-09-01"
+  },
+  "GRC-05.pdf": {
+    "doc_id": "GRC-05",
+    "title": "Internal Audit SOP-IA-KYC-03 - KYC Periodic Review Testing",
+    "practice_area": "grc",
+    "doc_type": "sop",
+    "format": "pdf",
+    "effective_date": "2025-09-15"
+  },
+  "TAX-01.md": {
+    "doc_id": "TAX-01",
+    "title": "CBDT Notification SYN-CBDT/14/2025 - Withholding on Cross-Border Service Fees",
+    "practice_area": "tax",
+    "doc_type": "notification",
+    "format": "md",
+    "effective_date": "2025-04-01"
+  },
+  "TAX-02.md": {
+    "doc_id": "TAX-02",
+    "title": "CBDT Circular SYN-CBDT-C/07/2025 - Clarification on Intra-Group Service Charges",
+    "practice_area": "tax",
+    "doc_type": "circular",
+    "format": "md",
+    "effective_date": "2023-04-01"
+  },
+  "TAX-03.md": {
+    "doc_id": "TAX-03",
+    "title": "CBIC Circular SYN-CBIC/203/2025 - Input Service Distributor (ISD) Registration and Credit Distribution",
+    "practice_area": "tax",
+    "doc_type": "circular",
+    "format": "md",
+    "effective_date": "2025-04-01"
+  },
+  "TAX-04.md": {
+    "doc_id": "TAX-04",
+    "title": "57th GST Council Ruling - E-Invoicing Threshold and ISD Invoices",
+    "practice_area": "tax",
+    "doc_type": "ruling",
+    "format": "md",
+    "effective_date": "2026-01-01"
+  },
+  "TAX-05.json": {
+    "doc_id": "TAX-05",
+    "title": "Consolidated Tax Rate and Threshold Table (synthetic)",
+    "practice_area": "tax",
+    "doc_type": "tax_table",
+    "format": "json",
+    "effective_date": "2025-04-01"
+  }
+}

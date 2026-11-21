@@ -1,0 +1,16 @@
+{
+  "_note": "Seed alias table of well-known Indian regulators and abbreviations (general domain knowledge a deployer would configure). Deliberately does NOT contain case-specific entities (Meridian, Axiom, Registered Valuer, CCO...); those must be resolved by LLM-guided extraction, fuzzy match and embedding similarity.",
+  "CBDT": ["Central Board of Direct Taxes", "Income Tax Department", "Income Tax Dept", "Tax Authority", "IT Department"],
+  "CBIC": ["Central Board of Indirect Taxes and Customs", "Central Board of Indirect Taxes & Customs"],
+  "RBI": ["Reserve Bank of India", "Central Bank"],
+  "FIU-IND": ["Financial Intelligence Unit-India", "Financial Intelligence Unit India", "Financial Intelligence Unit", "FIU"],
+  "SEBI": ["Securities and Exchange Board of India"],
+  "ISD": ["Input Service Distributor"],
+  "IRN": ["Invoice Reference Number"],
+  "PMLA Rules": ["PMLA", "Prevention of Money Laundering Act", "Prevention of Money Laundering Rules", "Prevention of Money Laundering (Maintenance of Records) Rules"],
+  "Beneficial Owner": ["BO", "Beneficial Owners"],
+  "AATO": ["Aggregate Annual Turnover"],
+  "NBFC": ["Non-Banking Financial Company", "non-banking financial company"],
+  "FCRA": ["Foreign Contribution (Regulation) Act"],
+  "FEMA": ["Foreign Exchange Management Act"]
+}

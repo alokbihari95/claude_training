@@ -1,0 +1,37 @@
+# Core orchestration
+langchain
+langchain-core
+langchain-community
+langchain-openai          # ChatOpenAI pointed at OpenRouter
+langchain-huggingface     # bge-large-en-v1.5 embeddings
+langchain-chroma
+langchain-text-splitters
+langgraph
+
+# Vector / sparse / graph
+chromadb
+rank_bm25
+networkx
+numpy
+# (gensim omitted: no Python 3.14 wheel; Node2Vec skip-gram is trained in torch, see src/node2vec.py)
+rapidfuzz                 # fuzzy entity linking
+
+# Local models
+sentence-transformers     # bge-large-en-v1.5 (1024-dim) and bge-reranker-base
+transformers
+
+# Loaders
+pypdf
+docx2txt
+python-docx
+unstructured              # optional: UnstructuredPDFLoader (falls back to PyPDF)
+
+# UI / viz
+gradio
+plotly
+pandas
+
+# Tests
+pytest
+fpdf2                     # builds the synthetic PDF fixtures (scripts/build_corpus.py)
+playwright               # UI smoke tests (drives system Chrome)

@@ -1,0 +1,20 @@
+# Questions to try after uploading (Tab 1 -> Ingest, then ask in the chat)
+
+Sample_Tax_Circular_Section_94W.pdf  (practice area: Tax & Regulatory Services)
+  1. What rate and threshold apply to Section 94W withholding on director sitting fees?
+  2. Are reimbursements of travel costs for directors subject to Section 94W?
+  3. What is the penalty under Section 271W?
+
+Sample_GRC_Third_Party_Risk_SOP.docx  (practice area: Risk Advisory & GRC)
+  4. How often must Tier 1 vendors be reviewed under SOP-TPR-05?
+  5. Within how many hours must a vendor security incident reach the CISO?
+  6. Which control maps to RBI outsourcing Para 11 and what penalty applies if it is missing?
+
+Sample_Deal_SPA_Amendment_1_Meridian.docx  (practice area: Deal Advisory & Corporate Finance)
+  7. What is the maximum purchase price reduction under the working-capital adjustment?
+  8. What is the longstop date for Closing?
+  -- Multi-hop (new file + existing corpus; use the Graph RAG engine, practice area 'All'): --
+  9. Which provision governs withholding on the transition services fee and what rate applied to Meridian's earlier intra-group fees?
+ 10. Can the Buyer demand a new valuation if Closing slips, and what does the existing corpus say about how long a valuation report stays valid?
+
+Tip: ask question 7-10 with Standard RAG and then Graph RAG to compare. Before uploading, ask question 1 and 7: the system should say they are not in the corpus.

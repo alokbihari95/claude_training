@@ -1,0 +1,39 @@
+{
+  "_note": "Expected comparison matrix from the PwC India architecture spec (section 5). These are HYPOTHESES to test, never displayed as results. Column order of latency/hallucination cells was inferred from a garbled table: please confirm.",
+  "engines": ["standard", "hyde", "graph"],
+  "matrix": {
+    "simple": {
+      "standard": "High precision / low latency",
+      "hyde": "Moderate (overhead of HyDE)",
+      "graph": "Moderate (graph overhead)"
+    },
+    "multihop": {
+      "standard": "Poor (misses indirect relationships)",
+      "hyde": "Moderate (semantic expansion)",
+      "graph": "Superior (explores k-hop edges)"
+    },
+    "vocab_mismatch": {
+      "standard": "Poor (relies on exact vector distance)",
+      "hyde": "Superior (synthesizes domain terms)",
+      "graph": "High (entity resolution maps synonyms)"
+    },
+    "avg_latency_ms": {"standard": 450, "hyde": 1200, "graph": 850},
+    "hallucination_risk": {
+      "standard": "Moderate (out-of-context chunks)",
+      "hyde": "Moderate (synthetic passage drift)",
+      "graph": "Lowest (strict entity-relation grounding)"
+    },
+    "best_use_case": {
+      "standard": "Single document lookup (SOPs)",
+      "hyde": "Vague regulatory inquiries",
+      "graph": "Complex Tax/M&A due diligence"
+    }
+  },
+  "ordinal_expectations": {
+    "simple": {"metric": "rcr", "note": "standard >= hyde, standard >= graph (rank order: standard highest)", "order_desc": ["standard", "hyde", "graph"]},
+    "multihop": {"metric": "rcr", "order_desc": ["graph", "hyde", "standard"]},
+    "vocab_mismatch": {"metric": "rcr", "note": "hyde best; graph high; standard poor", "order_desc": ["hyde", "graph", "standard"]},
+    "latency": {"metric": "latency_ms", "order_asc": ["standard", "graph", "hyde"]},
+    "hallucination": {"metric": "hallucination_risk", "note": "graph lowest", "order_asc": ["graph", "hyde", "standard"]}
+  }
+}
